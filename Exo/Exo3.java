@@ -9,8 +9,8 @@ public class Exo3{
 		int habitant = 8_000_000;
 		System.out.println(habitant + " d'habitants au Qc");
 	 	
-		float revenu = 154452.43;
-		System.out.println(revenu + " $/année");
+		double revenu = 154_452.43;
+		System.out.println(revenu + "$" + "/année");
 		
 		int goutte = 960_000_000;
 		System.out.println(goutte + " gouttes d'eau dans une piscine");
