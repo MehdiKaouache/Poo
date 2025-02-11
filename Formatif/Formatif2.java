@@ -26,6 +26,7 @@ public class Formatif2{
 		
 		for(int i = 0; i != 4;){
 			Menu();
+			System.out.println("Nombre de tâches: " + tache.size());
 			System.out.print(messageChoix);	
 			int numChoix = scanner.nextInt();
 			i = numChoix;
