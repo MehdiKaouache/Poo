@@ -20,9 +20,8 @@ public class Formatif2{
 		String messageNumTerminer = "Entrez le numéro de la tâche à marquer comme terminée : ";
 		String messageMerci = "Merci d'avoir utilisé le gestionnaire de tâches!";
 		String messageTrait = "----------------------------------------------";
-		ArrayList<String> tache = new ArrayList<String>();
+		ArrayList<String> tache = new ArrayList<>();
 		Scanner scanner = new Scanner(System.in);
-		
 		
 		for(int i = 0; i != 4;){
 			Menu();
