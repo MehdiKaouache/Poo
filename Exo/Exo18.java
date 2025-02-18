@@ -56,5 +56,3 @@ public class Exo18{
 		System.out.println("8 : " + count8);
 		System.out.println("9 : " + count9);
 		System.out.println("10: " + count10);
-	}
-}
