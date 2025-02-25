@@ -1,4 +1,4 @@
-public class Etudiant{
+/*public class Etudiant{
     String nom;
     int age;
 
@@ -24,4 +24,4 @@ public class Etudiant{
     }
 
 
-}
+}*/

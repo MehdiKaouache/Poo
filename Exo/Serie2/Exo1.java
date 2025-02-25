@@ -19,7 +19,6 @@ class Personne {
         liste.add(new Personne("Sarah", 25));
         liste.add(new Personne("Marc", 35));
         
-
         for (int i = 0; i < liste.size(); i++){
             liste.get(i).afficherListe();
         }
